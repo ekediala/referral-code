@@ -1,2 +1,2 @@
 # referral-code
-Random 6 character code generator
+Random 8 character code generator
